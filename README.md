@@ -2,6 +2,11 @@
 
 ![Mesh Gap Detector splash](splash.png)
 
+## Video
+
+- [Mesh Gap Detector — overview](https://www.youtube.com/watch?v=nrHMX34BscU)
+- [Mesh Gap Detector — in depth](https://www.youtube.com/watch?v=lMz-ndHkKDY)
+
 ## Description
 
 A Blender addon for OPCD course designers that finds gaps between meshes —
@@ -57,8 +62,3 @@ vertices back together automatically.
 ## Feature Requests / Bug Reports
 
 Please open an issue in this repository.
-
-## Video
-
-- [Mesh Gap Detector — overview](https://www.youtube.com/watch?v=nrHMX34BscU)
-- [Mesh Gap Detector — in depth](https://www.youtube.com/watch?v=lMz-ndHkKDY)
